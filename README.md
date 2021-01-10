@@ -64,4 +64,5 @@ Comparing both codes along with the run times, we can establish that the refract
 
 In general, the main **advantage** of refractoring code is that it makes the code more efficient. When you analize a large number of data, the output can take a great amount of time. By having an efficient code, the output time can be faster. A **disadvantage** of refractoring a code, is that it can be confusing changing a code that is already working, and it can end up less efficient than the original code.
 
-In this challenge, the original code is pretty much straight forward and logical. Which is an advantage in order to comprehend what the code is doing. However, a disadvantage is that it takes longer to run. The advantage of the refractored code is that it is more efficient and it runs faster than the original code. The disadvantage is that it can be vdery confusing to code.
+In this challenge, the original code is pretty much straight forward and logical. Which is an **advantage** in order to comprehend what the code is doing. However, a **disadvantage** is that it takes longer to run. The **advantage** of the refractored code is that it is more efficient and it runs faster than the original code. The **disadvantage** is that it can be vdery confusing to code.
+
